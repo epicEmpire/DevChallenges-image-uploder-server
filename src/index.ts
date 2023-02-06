@@ -6,7 +6,6 @@ import path from "path";
 import fs from "fs";
 
 import rimraf from "rimraf";
-import { RimrafOptions } from "rimraf/dist/cjs/src";
 
 config();
 
